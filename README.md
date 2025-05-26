@@ -88,13 +88,11 @@ void push_button(){
 
 
 ## Output  :
-![424301152-03352b7f-05f7-425d-93f3-2e9bd38eefb2](https://github.com/user-attachments/assets/5d9ff4c1-211a-4124-935b-5ed0f135ec0e)
 
-![424301214-9b703945-8fba-4d0f-b618-17071cefdbab](https://github.com/user-attachments/assets/03d82e18-8c0a-4ec2-857b-b57180e20754)
+![image](https://github.com/user-attachments/assets/0ef3adff-da99-4472-afc2-a36a01f01a37)
 
-## layout of the circuit 
- 
- ![424301151-d0b5ec4f-d772-42f3-b503-0f67241105cb](https://github.com/user-attachments/assets/7c369105-ecd8-4436-ab54-ab7a2fdffe8c)
+![image](https://github.com/user-attachments/assets/115c383a-1949-4da7-ab7c-925c4933f204)
+
 
  ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
